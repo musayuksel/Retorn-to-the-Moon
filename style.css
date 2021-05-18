@@ -1,0 +1,36 @@
+body {
+	background-color: #ffffff;
+	color: #3a3a3a;
+	font-family: Gill Sans, Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	margin: 0;
+}
+
+a {
+	color: #002052; 
+}
+.header {
+  background-color: #202020;
+  background-image: url('https://cdn.filestackcontent.com/RBhOS6DoRoabKXwa8tC8');
+  background-position: center center;
+  background-repeat: no-repeat;
+  padding: 20px;
+  text-align: center;
+}
+.header img {
+  margin-bottom: 30px;
+}
+.header nav a {
+  border-bottom: 2px solid #BE1E2D;
+  color: #fff;
+  margin: 0 8px;
+  padding: 5px 8px;
+  text-decoration: none;
+}
+.header nav a:hover {
+  background-color: #BE1E2D;
+}
+.header nav a:nth-child(3) {
+  background-color: #fff;
+  color: #BE1E2D;
+}
