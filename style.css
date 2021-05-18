@@ -75,6 +75,7 @@ p {
   padding: 20px 30px;
 }
 .about .call-out h2 {
+  color: #fff;
   margin-top: 20px;
 }
 .about .call-out p {
@@ -102,4 +103,10 @@ p {
 }
 .about strong {
   color: #3a3a3a;
+}
+.footer {
+  background-color: #BE1E2D;
+  color: #fff;
+  padding: 10px 0 50px 0;
+  text-align: center;
 }
